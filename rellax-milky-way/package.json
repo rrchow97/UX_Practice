@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

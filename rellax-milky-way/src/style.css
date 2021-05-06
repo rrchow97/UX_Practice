@@ -1,0 +1,112 @@
+body {
+  overflow-x: hidden;
+}
+
+.header {
+  position: fixed;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  margin-top: 40vh;
+  margin-left: 30vw;
+}
+
+h1 {
+  font-size: 80px
+}
+
+.mercury,
+.venus,
+.earth,
+.mars,
+.jupiter,
+.saturn,
+.uranus,
+.neptune,
+.pluto,
+.galaxy {
+  position: absolute;
+}
+
+.milkyway {
+  position: relative;
+  height: 100vh;
+  margin-left: 9vw;
+}
+
+.next {
+  height: 60vh
+}
+
+.galaxy {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 160vh;
+}
+
+.mercury {
+  bottom: 139px;
+  left: 8vw;
+  width: 90px;
+  height: 90px;
+}
+
+.venus {
+  bottom: 121px;
+  left: 13vw;
+  width: 120px;
+  height: 120px;
+}
+
+.earth {
+  bottom: 92px;
+  left: 18vw;
+  width: 182px;
+  height: 160px;
+}
+
+.mars {
+  bottom: 137px;
+  left: 27vw;
+  width: 63px;
+  height: 63px;
+}
+
+.jupiter {
+  bottom: -5px;
+  left: 25vw;
+  width: 350px;
+  height: 350px;
+}
+
+.saturn {
+  bottom: 63px;
+  left: 38vw;
+  width: 378px;
+  height: 188px;
+}
+
+.uranus {
+  bottom: 70px;
+  left: 53vw;
+  width: 250px;
+  height: 150px;
+}
+
+.neptune {
+  bottom: 92px;
+  left: 64vw;
+  width: 100px;
+  height: 100px;
+}
+
+.pluto {
+  bottom: 116px;
+  left: 72vw;
+  width: 32px;
+  height: 32px;
+}
