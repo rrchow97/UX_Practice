@@ -1,5 +1,8 @@
-# Three.js Starter
+# ThreeJS Earth
+Author: Ramisa Chowdhury
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Courtesy of Ayşegül Yönet of https://frontendmasters.com/teachers/aysegul-yonet/
+Courtest of Gary Simon of DesignCourse https://www.facebook.com/logodesigner
 
 # Tutorials
 Earth: https://github.com/Yonet/WebXRWorkshop

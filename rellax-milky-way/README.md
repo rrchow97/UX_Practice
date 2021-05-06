@@ -1,5 +1,6 @@
 # Parallax Milky Way
-Courtesy of Ramisa Chowdhury
+Author: Ramisa Chowdhury
+Courtest of Gary Simon of DesignCourse https://www.facebook.com/logodesigner
 
 # Tutorials
 Rellax: https://www.youtube.com/watch?v=7C6l2HG0fJg&t=1191s
@@ -13,5 +14,5 @@ Run this followed commands:
 npm install
 
 # Run the local server at localhost:3000
-npm run start
+npm start
 ```
