@@ -1,5 +1,5 @@
 # Parallax Milky Way
-Author: Ramisa Chowdhury
+Author: Ramisa Chowdhury__
 Courtest of Gary Simon of DesignCourse https://www.facebook.com/logodesigner
 
 # Tutorials
