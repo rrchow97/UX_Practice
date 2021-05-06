@@ -1,11 +1,11 @@
 # ThreeJS Earth
-Author: Ramisa Chowdhury__
-Courtesy of Bruno Simon of https://threejs-journey.xyz/__
-Courtesy of Ayşegül Yönet of https://frontendmasters.com/teachers/aysegul-yonet/__
-Courtest of Gary Simon of DesignCourse https://www.facebook.com/logodesigner__
+Author: Ramisa Chowdhury<br />
+Courtesy of Bruno Simon of https://threejs-journey.xyz/<br />
+Courtesy of Ayşegül Yönet of https://frontendmasters.com/teachers/aysegul-yonet/<br />
+Courtest of Gary Simon of DesignCourse https://www.facebook.com/logodesigner<br />
 
 # Tutorials
-Earth: https://github.com/Yonet/WebXRWorkshop__
+Earth: https://github.com/Yonet/WebXRWorkshop<br />
 Stars: https://www.youtube.com/watch?v=dLYMzNmILQA
 
 ## Setup
